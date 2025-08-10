@@ -8,27 +8,27 @@ A data storytelling project focused on analyzing the rising cost of childcare in
 
 Childcare costs in the U.S. have been steadily increasing, placing financial and emotional strain on families. This project combines data analysis and storytelling to explore these trends and present them in a relatable way for the general public.  
 
-By integrating historical childcare pricing data and survey responses from U.S. parents, the project develops a fictional but data-backed narrative that illustrates the difficult choices families face — such as relocating for affordability or turning to extended family for support. The goal is to simplify complex findings into visually appealing content that resonates with a wide audience.
+By integrating historical childcare pricing data and survey responses from U.S. parents, the project develops a fictional but data-backed narrative that illustrates the difficult choices families face such as relocating for affordability or turning to extended family for support. The goal is to simplify complex findings into visually appealing content that resonates with a wide audience.
 
 ---
 
 ## Data Sources
 
-- **National Database of Childcare Prices (NDCP)** — U.S. Department of Labor (2008–2022)  
-- **Survey of American Parents** — Pew Research Center (Sept. 20 – Oct. 2, 2022)  
+- **National Database of Childcare Prices (NDCP):** U.S. Department of Labor (2008–2022)  
+- **Survey of American Parents:**Pew Research Center (Sept. 20 – Oct. 2, 2022)  
 
 ---
 
 ## Methodology
 
-- **Data Cleaning & Preprocessing** — Reduced dataset size, standardized column names, formatted values, and handled missing data while preserving integrity  
-- **Exploratory Data Analysis (EDA)** —  
+- **Data Cleaning & Preprocessing:** Reduced dataset size, standardized column names, formatted values, and handled missing data while preserving integrity  
+- **Exploratory Data Analysis (EDA)** 
   - Geospatial mapping of childcare costs across states and counties  
   - Comparison of center-based vs. family-based care costs by age group  
   - Employment and poverty rate patterns  
   - Parental sentiment analysis from survey data  
-- **Story Development** — Created a fictional narrative inspired by data insights to increase relatability and engagement  
-- **Mediums for Storytelling** — Instagram post/reel, blog article, and Facebook ad/pamphlet to target diverse age groups and platforms  
+- **Story Development:** Created a fictional narrative inspired by data insights to increase relatability and engagement  
+- **Mediums for Storytelling:** Instagram post/reel, blog article, and Facebook ad/pamphlet to target diverse age groups and platforms  
 
 ---
 
